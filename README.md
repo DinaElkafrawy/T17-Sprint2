@@ -5,7 +5,7 @@
 
 
 ## About
-##### Git Repository for the SRS Document after meeting the client this repo will also contain our meetings log, team components and deadlines sheet.
+##### Git Repository for the User Stories and SRS Document after meeting the client this repo will also contain our meetings log, team components and deadlines sheet.
 
 ## Team Members
 
